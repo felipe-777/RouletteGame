@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteGame", "RouletteGame\RouletteGame.csproj", "{83BE2968-A053-5210-3506-9A0EF613A66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83BE2968-A053-5210-3506-9A0EF613A66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BE2968-A053-5210-3506-9A0EF613A66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BE2968-A053-5210-3506-9A0EF613A66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BE2968-A053-5210-3506-9A0EF613A66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F974D0D8-B757-BF36-B9D7-5B5F18564542} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{EF91C251-EF93-D69B-3DD8-EB514A1B505A} = {F974D0D8-B757-BF36-B9D7-5B5F18564542}
+		{8F5D53FB-7E72-B4E6-CB8E-C35D3DFE4DCA} = {EF91C251-EF93-D69B-3DD8-EB514A1B505A}
+		{83BE2968-A053-5210-3506-9A0EF613A66D} = {8F5D53FB-7E72-B4E6-CB8E-C35D3DFE4DCA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F483DE6B-9B89-4EB5-9FD6-252C67EDC94F}
+	EndGlobalSection
+EndGlobal
